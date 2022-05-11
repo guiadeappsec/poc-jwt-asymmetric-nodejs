@@ -1,0 +1,23 @@
+{
+  "name": "poc-jwt-asymmetric-nodejs",
+  "version": "1.0.0",
+  "description": "How to sign a JWT using asymmetric key",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guiadeappsec/poc-jwt-asymmetric-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guiadeappsec/poc-jwt-asymmetric-nodejs/issues"
+  },
+  "homepage": "https://github.com/guiadeappsec/poc-jwt-asymmetric-nodejs#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
